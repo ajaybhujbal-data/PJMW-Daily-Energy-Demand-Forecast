@@ -8,7 +8,7 @@
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-189AB4)
 [![Streamlit](https://img.shields.io/badge/App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://pjmw-daily-energy-demand-forecast.streamlit.app/)
 ![MAPE](https://img.shields.io/badge/MAPE-0.98%25-success)
-![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
+[![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)](https://pjmw-daily-energy-demand-forecast.streamlit.app/)
 
 **🚀 [Live Demo](https://pjmw-daily-energy-demand-forecast.streamlit.app)** &nbsp;|&nbsp; 📓 [Notebooks](#-project-structure) &nbsp;|&nbsp; 🎤 [Presentation](YOUR-PRESENTATION-LINK)
 
