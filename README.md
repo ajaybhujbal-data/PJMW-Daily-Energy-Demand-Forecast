@@ -6,7 +6,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11%2B-3776AB?logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/Model-XGBoost-189AB4)
-![Streamlit](https://img.shields.io/badge/App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Streamlit](https://pjmw-daily-energy-demand-forecast.streamlit.app)
 ![MAPE](https://img.shields.io/badge/MAPE-0.98%25-success)
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
 
