@@ -24,7 +24,7 @@
 5. [Methodology](#-methodology)
 6. [Model Comparison & Results](#-model-comparison--results)
 7. [App Features](#-app-features)
-8. [Tech Stack](#-tech-stack)
+8. [Tech Stack](#-tch-stack)
 9. [Project Structure](#-project-structure)
 10. [How to Run Locally](#-how-to-run-locally)
 11. [Limitations & Future Work](#-limitations--future-work)
