@@ -10,7 +10,7 @@
 ![MAPE](https://img.shields.io/badge/MAPE-0.98%25-success)
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
 
-**🚀 [Live Demo](https://pjmw-daily-energy-demand-forecast.streamlit.app)** &nbsp;|&nbsp; 📓 [Notebooks](#-project-structure) &nbsp;|&nbsp; 🎤 [Presentation](YOUR-PRESENTATION-LINK)
+**🚀 [Live Demo](https://pjmw-daily-energy-demand-forecast.streamlit.app)** &nbsp;|&nbsp; 📓 [Notebooks](notebooks/TrainedModels.ipynb) &nbsp;|&nbsp; 🎤 [Presentation](YOUR-PRESENTATION-LINK)
 
 </div>
 
